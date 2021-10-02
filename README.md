@@ -1,3 +1,3 @@
-# Banana talk app
+# Minion translator app
 
-Banana talk app
+Welcome to Minion translator app. 
